@@ -1,0 +1,93 @@
+{
+  "_args": [
+    [
+      "angular-sessionstorage",
+      "C:\\Users\\Cypher\\Desktop\\angularsession"
+    ]
+  ],
+  "_from": "angular-sessionstorage@latest",
+  "_id": "angular-sessionstorage@1.1.5",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/angular-sessionstorage",
+  "_nodeVersion": "6.8.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/angular-sessionstorage-1.1.5.tgz_1476383917950_0.36419293680228293"
+  },
+  "_npmUser": {
+    "email": "oetjenj@gmail.com",
+    "name": "oetjenj"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "angular-sessionstorage",
+    "raw": "angular-sessionstorage",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular-sessionstorage/-/angular-sessionstorage-1.1.5.tgz",
+  "_shasum": "2654694afbdac6958b6a7f5eac9e641829bd5f61",
+  "_shrinkwrap": null,
+  "_spec": "angular-sessionstorage",
+  "_where": "C:\\Users\\Cypher\\Desktop\\angularsession",
+  "author": {
+    "email": "oetjenj@gmail.com",
+    "name": "Jan Oetjen"
+  },
+  "bugs": {
+    "url": "https://github.com/joetjen/angular-sessionstorage/issues"
+  },
+  "dependencies": {},
+  "description": "Provide read/write access to browsers' sessionStorage.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "2654694afbdac6958b6a7f5eac9e641829bd5f61",
+    "tarball": "https://registry.npmjs.org/angular-sessionstorage/-/angular-sessionstorage-1.1.5.tgz"
+  },
+  "gitHead": "69166a2b7473db9cb445f85f623e9b2d14b8dec3",
+  "homepage": "https://github.com/joetjen/angular-sessionstorage#readme",
+  "jspm": {
+    "shim": {
+      "angular-sessionstorage": {
+        "deps": [
+          "angular"
+        ]
+      }
+    }
+  },
+  "keywords": [
+    "angular",
+    "storage",
+    "sessionstorage",
+    "webstorage",
+    "browser",
+    "client-side"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "oetjenj@gmail.com",
+      "name": "oetjenj"
+    }
+  ],
+  "name": "angular-sessionstorage",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joetjen/angular-sessionstorage.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.5"
+}

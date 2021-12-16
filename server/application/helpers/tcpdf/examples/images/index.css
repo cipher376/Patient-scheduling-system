@@ -1,0 +1,217 @@
+@font-face {
+    font-family: myFooter;
+    src: url(allura.ttf);
+}
+
+.header-anuc{
+    font-size: 24px;
+    color:  #990000;
+    margin-top: -2.5px;
+    font-weight: bolder;
+}
+
+.header-sub-anuc{
+    font-size: 20px;
+    color:  #990000;
+    margin-top: -4px;
+    word-spacing: 7px;
+    font-weight: bolder;
+}
+
+.brush{
+    font-family:"myFooter";
+}
+
+.header-sub2{
+    font-size: 18px;
+}
+
+.header-sub3{
+    font-size: 14px;
+    text-decoration: underline;
+}
+
+.header-sub4{
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration: underline;
+    margin-top: 15px;
+}
+
+.photo{
+    font-weight: bold;
+    font-size: 12px;
+    margin-top: 15px;
+    padding-top: 10px;
+}
+
+.photo-box{
+    border: solid 1px black;
+    width: 100px;
+    height: 100px;
+    margin: -105px auto auto 80%;
+}
+
+.overlay{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    opacity: 0.1;
+    z-index: -1;
+}
+
+.header-office{
+    font-weight: bolder;
+    color: white;
+    background-color: #990000;
+}
+
+.office-box{
+    margin: auto;
+    width: 80%;
+    height: 80px;
+    background-color: #990000;
+    color: white;
+}
+
+.logo{
+    width: 100%;
+    height: auto;
+}
+
+
+
+.form-section{
+    width: 93%;
+    text-align: center;
+    margin: 10px auto auto auto;
+}
+
+.form-section .cover-text{
+    font-size: 24px;
+    font-weight: bolder;
+    margin: 5px auto 5px auto;
+}
+
+
+.cover-image{
+    max-width: 100%;
+    height: auto;
+}
+
+.form-section-heading{
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+
+.form-section-lists{
+    text-align: left;
+    font-weight: bold;
+    margin: auto;
+}
+
+.form-group{
+    padding: 20px;
+    height: auto;
+    width: auto;
+    margin: 40px auto auto auto;
+    border: solid 2px #cc0000;
+    border-bottom: solid 2px transparent;
+}
+
+.footer{
+    height: 20px;
+    position: relative;
+    margin: -5px auto auto auto;
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+}
+
+.footer .footer-title{
+    position: absolute;
+    width: 10%;
+    height: 100%;
+    background-color: #990000;
+    right: 0%; 
+}
+
+.footer .footer-description{
+    position: absolute;
+    width: 79.8%; 
+    height: 100%;
+    left: 0%;
+    background-color: #cc0000;
+    word-spacing: 7px;
+    font-weight: bolder;
+    font-family:"myFooter";
+    font-size: 12px;
+}
+
+.footer-center{
+    padding-top: 2.5px;
+}
+
+.input-text{
+    border: none;
+    border-bottom: solid 1px black;
+    outline: none;
+    background-color: transparent;
+    font-weight: bold;
+}
+
+.input-box{
+    border: solid 1px black;
+    outline: none;
+}
+
+.input-text-stretch{
+    width: 40%;
+}
+
+.input-text-small{
+    width: 5.7%;
+}
+
+.small-text{
+    font-size: 14px;
+    font-style: italic;
+}
+
+li{
+    margin-bottom: 10px;
+}
+
+.list-spacing{
+    margin-left: 40px;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+    
+}
+td{
+    text-align: left;
+    padding-left:5px;
+}
+input{
+    text-align: left;
+    padding-left: 10%;
+    font-size:12px;
+    text-transform:uppercase;
+    font-weight: bold;
+}
+
+td,th,select{
+    text-transform:uppercase;
+    font-size: 14px;
+    
+    
+}
+thead tr td{
+    font-weight: bold;
+}
